@@ -4,7 +4,7 @@ A Create React App implementation of a User Directory Dashboard using the JSONPl
 
 ## LIVE DEMO
 
-`https://user-directory-management-buyer-for.vercel.app/`
+https://user-directory-management-buyer-for.vercel.app/
 
 `https://jsonplaceholder.typicode.com/users`
 
